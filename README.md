@@ -31,12 +31,11 @@ While it's typical auto insurance with a few more features, Lemonade's auto insu
 Lemonade offers life insurance without a physical or lab test for people between the ages of 18 and 60. With Lemonade term life insurance, policyholders pay a fixed annual premium for the term of the policy.
 
 _Lemonade has extremely affordable starting rates for all of its insurance products. The price for each type of policy_
-+ Lemonade Renters Insurance	 As low as $5 per month
-
-+ Lemonade Homeowners Insurance 	As low as $25 per month
-+ Lemonade Car Insurance	As low as $30 per month
-+ Lemonade Pet Insurance	As low as $10 per month
-+ Lemonade Life Insurance	As low as $9 per month
+ | Lemonade Renters Insurance |	 As low as $5 per month |
+ | Lemonade Homeowners Insurance |	As low as $25 per month
+ | Lemonade Car Insurance | As low as $30 per month
+ | Lemonade Pet Insurance |	As low as $10 per month
+ | Lemonade Life Insurance |	As low as $9 per month
 
 **Lemonade competitors and similar companis**
 
@@ -62,7 +61,7 @@ _Net Earned Premium:_ Lemonade works on a reinsurance business model to minimize
 _Ceding Commission Income:_ This is the commission Lemonade earns for giving business to third-party reinsurers. This stream made 35% of the revenue earned by Lemonade in 2021.
 _Net Investment Income:_ The stream represents interest earned from fixed maturity securities, short-term securities, and other investments. This stream made 1.5% of the revenue earned by Lemonade in 2021.
 _Commission and Other Income:_ Commission income consists of commissions earned for policies placed with third-party insurance companies where Lemonade has no exposure to the insured risk. This stream made 3.5% of the revenue earned by Lemonade in 2021.
-
+![Alt text](image-7.png)
 In July 2020, Lemonade went public on the New York Stock Exchange in its largest IPO since 2020. Its market value jumped from about $ 40 million in September 2015 to $ 4 billion.
 
 ### How Lemonade is Disrupting the Insurance Industry 
@@ -105,7 +104,7 @@ _Opportunitis_
 
 _Weaknesses_
 - Expanding their model into new business lines doesn't carry guarantee for success in these new arenas
-
+- Limited extra coverage options.
 _Threats_
 - Competition from incumbents has not truly been faced so far. As they move into new business lines, they will face competition from incubents.
 ## Lemonade Future Profitability
@@ -117,5 +116,16 @@ For tenants who appreciate speed and simplicity and feel comfortable using a mob
 ## Conclusion
 Although many people still can't handle the idea of ​​dealing with companies that are completely dependent on bots with no people to deal with. It is time to accept that artificial intelligence is becoming a reality and in the near future we will see more companies and industries that depend less on people and more on machines.
 Undoubtedly, Lemonade has reinvented the insurance industry by using machine learning and artificial intelligence to satisfy consumers and make the ecosystem more efficient. Lemonade has made insurance more attractive, affordable, accurate, and socially more effective.
-With just $128 Mn revenue in a $5 trillion industry and an innovative business model, Lemonade has the potential to become the world’s most loved insurance company one day.
+With j$128 ust Mn revenue in a $5 trillion industry and an innovative business model, Lemonade has the potential to become the world’s most loved insurance company one day.
 
+## References
+
+* [JACKIE LAM: Lemonade Home Insurance Review](https://www.investopedia.com/lemonade-home-insurance-review-5079482)
+* [Ashley D: Lemonade Insurance Review: Pros and Cons](https://www.creditdonkey.com/lemonade-insurance-review.html)
+* [Pavel Kaplunou: What We Can Learn From Lemonade: an InsurTech Case Study](https://smart-it.io/blog/what-we-learn-from-lemonade-insurtech-case-study/)
+* [Lemonade](https://www.assurely.com/lemonade)
+* [Elie Ofek and Danielle Golan: Lemonade: Disrupting Insurance with Instant Everything, Killer Prices, and a Big Heart](https://www.hbs.edu/faculty/Pages/item.aspx?num=56493)
+* [Joanna England: Timeline: The story of Lemonade](https://insurtechdigital.com/insurtech/timeline-story-lemonade)
+* [LEMONADE COMPANY HISTORY TIMELINE](https://www.zippia.com/lemonade-careers-147429/history/)
+* [SHIKHAR GOEL: Lemonade Business Model: To Become the most loved insurance company](https://thestrategystory.com/2022/06/23/lemonade-insurance-business-model/)
+* [Sarah Schlichter: Lemonade Homeowners Insurance Review 2022](https://www.nerdwallet.com/article/insurance/lemonade-home-insurance-review)
