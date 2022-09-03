@@ -10,16 +10,24 @@ _The lemonade Strategy_
 Their business is operating on a straightforward strategy: “Delight Customers”.
 _Mission and Vision_
 Lemonade is a formally recognized public benefit corporation with the goal of 'making insurance simple again.'
-Conversely,  its bigger goal is "turning insurance from a necessary evil into a societal good." They also aimed to develop into a round-the-clock insurance provider that thrills clients rather than annoys them.
+Conversely,  its bigger goal is "turning insurance from a necessary evil into a societal good." They also aimed to develop into a round-the-clock insurance provider that thrills clients rather than annoys them
 
 ## Business Activities
+
 *Renters and Homeowners Insurance:*
+
 Lemonade provides renters' and homeowners' insurance, which protects clients in case of an accident or damage to another person or their property. It also offers personal liability insurance, which guards clients in case of stolen or damaged property. Customers can purchase additional coverage to safeguard their jewels, fine art, and other personal property from accidental loss, damage, and theft around the world.
+
 *Pet Insurance:*
+
 Lemonade provides pet insurance that includes coverage for illnesses, accidents, medications, treatments, and diagnostics. With such a provision, Lemonade is becoming a more popular and well-liked insurer among millennials who value their pets.
+
 *Car Insurance:*
+
 While it's typical auto insurance with a few more features, Lemonade's auto insurance is unique in other ways. For each additional Lemonade Car customer, Lemonade will plant trees based on the driver's mileage to offset carbon emissions.
+
 *Life insurance:* 
+
 Lemonade offers life insurance without a physical or lab test for people between the ages of 18 and 60. With Lemonade term life insurance, policyholders pay a fixed annual premium for the term of the policy.
 
 _Lemonade has extremely affordable starting rates for all of its insurance products. The price for each type of policy_
@@ -31,16 +39,19 @@ _Lemonade has extremely affordable starting rates for all of its insurance produ
 + Lemonade Life Insurance	As low as $9 per month
 
 **Lemonade competitors and similar companis**
+
 - Allstate is a company that operates as a personal property and casualty insurer. Financial Services, car insurance, home insurance, insurance, life insurance
 - The Generali Group (Assicurazioni Generali) is a company operating in the global insurance and financial products market. Financial Services, car insurance, home insurance, insurance, life insurance
 - GIO is a provider of insurance products. Financial Services, car insurance,fintech, home insurance, insurance, life insurance, platform
 - Seraphin is a financial technology company that provides online insurance solutions. Technology, car insurance, fintech, home insurance, insurance
 ### The Lemonade Financials
+
 In 2019, SoftBank Backed Lemonade reported total sales of $63.8 million, up from $21.2 million in 2018. Its overall sales for the year were $67.3 million, while its operating costs rocketed by 133% to $175.2 million.
 
 Sales and marketing accounted for the majority of its costs, but these costs may be readily decreased because the company had leverage due to the ground-breaking artificial intelligence technology. Even if user growth is slowing down, Lemonade's premiums increased to $76 million last year. The corporation has huge opportunities for gross profit because gross profit exceeds total sales. Long-term capital expenditure reduction is also necessary to generate some operating profit. Since the corporation has less debt, interest costs are less.
 Lemonade had an operating profit margin of -169% and lost close to $108 million in 2019. The company's financial situation is continuously becoming better, and its growth rate is over 500%. For the seventh consecutive quarter, the corporation reported an improvement in the loss ratio with rising volume and numbers.
-![Alt text](Lemonade.png)
+
+![Alt text](Lemonade__.png)
 
 According to Crunchbase, Lemonade has raised $480 million in seven funding rounds. It’s latest Series D round valued the startup at $2 billion.
 With 425,000 clients, 75% of whom were under 35 and 90% of whom were purchasing renters and homeowners insurance for the first time, Lemonade earned $57 million in premium revenue in 2018, its second full year of offering these products. The 170-person New York-based firm, which now operates in 22 states, anticipates doubling revenue this year and growing to include all 50 states as well as Europe. 
@@ -60,19 +71,26 @@ In July 2020, Lemonade went public on the New York Stock Exchange in its largest
  * _Flat fee_. Pricing is often confusing for insurance customers. Lemonade also appeals to millennials and other younger customers, who tend to have  less experience with insurance policies. 
  * _Giveback program_. When customers sign up for insurance, they choose a nonprofit to support. At the end of the year, any unclaimed money from an account is donated to the nonprofit.
 #### Lemonade Launch Metric Exposed
+
 _Traffic_
 Lemonade was the first insurance company on the planet to launch on Product Hunt
+
 _Demographics_
 Research conducted by their team showed that insurance is mostly purchased by guys, and the traffic they were receiving proved this true. 82.64% of their visitors were male and 17.36% female. 
+
 _Quick Payments_
 Lemonade guarantees quick payments without any paperwork, which is another special aspect of its customer experience. Customers can finish the entire process online, just like with the application process. Claim approval occurs instantly.
+
 _Simple to Switch_
 Both clients who currently have insurance and those purchasing it for the first time are the focus of Lemonade. They walk users through the process with their "Check Prices and Switch" feature. Maya the chatbot leads visitors through a series of questions to illustrate the benefits of switching to Lemonade, just like other tasks on the website.
 People are choosing Lemonade over America’s most respected insurance companies! People left State Farm (22%), Allstate (18%), GEICO (14%) and many others to come to Lemonade
+
 _Mobile Apps_
 Customers can download mobile apps, which offer ease and speed. On their mobile devices, consumers may configure and manage their insurance.
+
 _Using social media_
 Lemonade also uses social media to share news and information about policies with its millennial clientele. Their twitter account is updated frequently. They are also active on Instagram and Facebook. Social media posts include links to relevant news stories and blog entries as well as advertisements for insurance.
+
 _Blog entries_
 Lemonade publishes articles that are instructive and beneficial to its readers. For instance, a recent post discusses potential eviction issues for renters and recommends tools to assist. Lemonade's services aren't specifically mentioned in this kind of piece, but it positions them as a helpful  source of information.
 #### Insur Tech Analysis: SWOT
@@ -80,11 +98,14 @@ _Strengths_
 - Insurance rebuild from scratch (customer experience and introducing charities as beneficiaries of underwriting profits)
 - Capturing custumers who never bought insurance
 - Highest ever ranked insurance (customer reviews)
+
 _Opportunitis_
 - Develop new products in new business lines
 - Capturing a wider spectrum of customers (not just the millennials)
+
 _Weaknesses_
 - Expanding their model into new business lines doesn't carry guarantee for success in these new arenas
+
 _Threats_
 - Competition from incumbents has not truly been faced so far. As they move into new business lines, they will face competition from incubents.
 ## Lemonade Future Profitability
@@ -97,3 +118,4 @@ For tenants who appreciate speed and simplicity and feel comfortable using a mob
 Although many people still can't handle the idea of ​​dealing with companies that are completely dependent on bots with no people to deal with. It is time to accept that artificial intelligence is becoming a reality and in the near future we will see more companies and industries that depend less on people and more on machines.
 Undoubtedly, Lemonade has reinvented the insurance industry by using machine learning and artificial intelligence to satisfy consumers and make the ecosystem more efficient. Lemonade has made insurance more attractive, affordable, accurate, and socially more effective.
 With just $128 Mn revenue in a $5 trillion industry and an innovative business model, Lemonade has the potential to become the world’s most loved insurance company one day.
+
